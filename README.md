@@ -3,7 +3,7 @@
 
 # Instructions
 1. Navigate to the directory this python file is in.
-2. Enter "python3 LY_NoErrorH.py" on the commandline, 
+2. Enter "python3 LY_NoErrorH.py" or "python3 LY_WthErrorH.py" on the commandline, 
 this should start the program.
 3. The software will ask you to enter a year and output the results 
 all to the commandline.
